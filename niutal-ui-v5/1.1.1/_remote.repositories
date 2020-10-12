@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 23 19:51:46 CST 2020
+niutal-ui-v5-1.1.1.pom>=
+niutal-ui-v5-1.1.1.war>=
+niutal-ui-v5-1.1.1-webjars.jar>=
